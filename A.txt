@@ -1,3 +1,0 @@
-DevA đã sửa file A.txt
-
-DevA sửa file A lần 2

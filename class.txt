@@ -1,5 +1,1 @@
-Information about G1 member
-Information about G2 members 
-Information about G3 members
-Information about G4 members
-
+Release a new feature of project!!!
